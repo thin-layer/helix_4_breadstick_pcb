@@ -1,0 +1,3 @@
+Record=SheetSymbol|SourceDocument=1 - Top.SchDoc|Designator=U_2 - IO Socket 0|SchDesignator=U_2 - IO Socket 0|FileName=2 - IO Socket 0.SchDoc|SymbolType=Normal|RawFileName=2 - IO Socket 0.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=1 - Top.SchDoc|Designator=U_3 - PSOC Blaster.ADC|SchDesignator=U_3 - PSOC Blaster.ADC|FileName=3 - PSOC & Power.SchDoc|SymbolType=Normal|RawFileName=3 - PSOC & Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=1 - Top.SchDoc
